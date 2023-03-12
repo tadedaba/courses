@@ -1,2 +1,2 @@
-# courses
+# Course Management System
 Course Management System
